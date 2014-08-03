@@ -1,3 +1,0 @@
-Majkusiak Piotr
-==============
-
