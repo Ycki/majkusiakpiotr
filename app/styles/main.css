@@ -31,7 +31,7 @@ body.open {
 .app-bar {
   display: block;
   width: 100%;
-  position: fixed;
+  /*position: fixed;*/
   top: 0;
   left: 0;
   background-color: #4285f4;
@@ -218,7 +218,7 @@ button.menu img {
 main {
   margin: 0 auto;
   /* Height of the header */
-  padding: 60px 16px 16px 16px;
+  /*  padding: 60px 16px 16px 16px;*/
   min-height: 100%;
 }
 
@@ -237,7 +237,7 @@ main {
   .app-bar-container {
     display: block;
     height: 130px;
-    max-width: 864px;
+    max-width: 970px;
     padding: 0 16px;
     box-sizing: border-box;
     background-color: #4285f4;
@@ -292,7 +292,7 @@ main {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    max-width: 864px;
+    max-width: 970px;
     margin: 0 auto;
     -webkit-flex-direction: row;
         -ms-flex-direction: row;
