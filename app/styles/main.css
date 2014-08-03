@@ -223,7 +223,7 @@ main {
 }
 
 /** Larger Screens - desktops and tablets **/
-@media all and (min-width: 990px) {
+@media all and (min-width: 970px) {
   .app-bar {
     position: relative;
   }
@@ -304,7 +304,6 @@ main {
   }
 
   main {
-    max-width: 864px;
     padding-top: 0;
     min-height: initial;
   }
