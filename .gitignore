@@ -1,0 +1,10 @@
+node_modules
+.sass-cache
+dist
+.tmp
+LICENSE
+.jshintrc
+.editorconfig
+.travis.yml
+package.json
+gulpfile.js
